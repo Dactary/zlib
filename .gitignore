@@ -24,3 +24,7 @@
 /configure.log
 
 .DS_Store
+/.vs
+/bin/Debug-windows/zlib/Testing/Temporary
+/bin/Debug-windows/zlib/CMakeFiles
+/bin/Debug-windows/zlib/.cmake/api/v1

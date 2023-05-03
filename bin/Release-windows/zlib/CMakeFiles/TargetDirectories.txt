@@ -1,0 +1,10 @@
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/zlib.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/example.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/minigzip.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/test.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/edit_cache.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/rebuild_cache.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/list_install_components.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/install.dir
+C:/Users/david/source/repos/won-core/vendor/zlib/bin/Release-windows/zlib/CMakeFiles/install/local.dir
